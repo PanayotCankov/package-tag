@@ -13,10 +13,8 @@
     },
     "homepage": "https://github.com/PanayotCankov/package-tag#readme",
     "bin": "package-tag.js",
-    "devDependencies": {
-        "semver": "^5.3.0"
-    },
     "dependencies": {
-        "yargs": "^5.0.0"
+        "yargs": "^5.0.0",
+        "semver": "^5.3.0"
     }
 }
